@@ -48,7 +48,6 @@ public class Program {
 		//teste github!
 		//teste github2!
 		//git teste 3!
-		
 		sc.close();
 	}
 
